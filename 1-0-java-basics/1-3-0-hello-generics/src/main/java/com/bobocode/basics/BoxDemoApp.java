@@ -19,3 +19,4 @@ public class BoxDemoApp {
         System.out.println((int) intBox.getValue() + (int) intBox2.getValue());
     }
 }
+
